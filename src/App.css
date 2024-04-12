@@ -1,0 +1,23 @@
+#carouselExampleFade {
+  margin-top: 2rem; /* Adjust the margin-top value as needed */
+}
+
+.carousel-item img {
+  max-height: 700px; /* Set a fixed height for the images */
+  width: 100%; /* Ensure the images take up the full width of the carousel */
+  object-fit: cover; /* Maintain aspect ratio while covering the entire carousel item */
+}
+
+
+/* body {
+  margin: 0;
+  font-family: var(--bs-body-font-family);
+  font-size: var(--bs-body-font-size);
+  font-weight: var(--bs-body-font-weight);
+  line-height: var(--bs-body-line-height);
+  color: var(--bs-body-color);
+  text-align: var(--bs-body-text-align);
+  background-color: #080339;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+} */
